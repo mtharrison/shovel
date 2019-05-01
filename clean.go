@@ -1,4 +1,4 @@
-package scraper
+package shovel
 
 func Clean(input map[string]string, rules []Rule) map[string]string {
 
